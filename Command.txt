@@ -1,0 +1,26 @@
+Installation 
+
+• apt update -y
+
+• apt upgrade -y
+
+• apt install git -y
+
+• apt install nodejs -y
+
+• apt install nodejs-lts -y
+
+• git clone https://github.com/Yadav210012/Temp-Mail
+
+• cd Temp-mail
+
+• chmod +x *
+
+• npm install
+
+• node temp.js <username>
+
+
+
+
+Temp mail
